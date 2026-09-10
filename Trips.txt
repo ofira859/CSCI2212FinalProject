@@ -1,0 +1,4 @@
+New Haven,New York,100,Ofir,25
+New York,Washington D.C,300,Jack,35
+Queens,Brooklyn,50,Ken,20
+Boston,RI,56,Iman,2

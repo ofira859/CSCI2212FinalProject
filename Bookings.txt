@@ -1,0 +1,5 @@
+Ofir,1,1,0,0,New Haven,New York,100,Ofir,25,0
+Uwas,1,1,0,0,New Haven,New York,100,Ofir,25,0
+James,1,1,1,0,Queens,Brooklyn,50,Ken,20,1
+Boston,1,1,0,0,Boston,RI,56,Iman,2,0
+Javi,1,1,1,1,Boston,RI,56,Iman,2,0
