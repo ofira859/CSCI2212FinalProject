@@ -1,7 +1,3 @@
-//
-// Created by Uwas on 02.04.26.
-//
-// Booking.h
 // links a passenger to a trip and handles the discount display
 
 #ifndef CPLUSPLUSFINALPROJECT_BOOKING_H

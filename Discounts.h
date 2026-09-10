@@ -1,4 +1,3 @@
-// Discounts.h
 // handles discount logic and price calculations
 // only applies the best discount, not multiple
 

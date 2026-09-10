@@ -1,7 +1,3 @@
-//
-// Created by Uwas on 02.04.26.
-// Booking.cpp
-
 #include "Booking.h"
 #include <iostream>
 using namespace std;

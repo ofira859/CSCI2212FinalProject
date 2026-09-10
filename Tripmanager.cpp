@@ -1,7 +1,3 @@
-//
-// Created by Uwas on 23.04.26.
-//
-
 #include "Tripmanager.h"
 #include <iostream>
 using namespace std;

@@ -1,9 +1,3 @@
-//
-// Created by Uwas on 23.04.26.
-//
-
-// Passenger.cpp
-
 #include "Passenger.h"
 #include <iostream>
 using namespace std;

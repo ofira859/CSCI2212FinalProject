@@ -1,9 +1,3 @@
-//
-// Created by Uwas on 02.04.26.
-//
-
-// Discounts.cpp
-
 #include "Discounts.h"
 using namespace std;
 

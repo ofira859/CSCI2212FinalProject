@@ -1,7 +1,3 @@
-//
-// Created by Ofir
-//
-
 #include <iostream>
 #include "Trips.h"
 #include "Passenger.h"

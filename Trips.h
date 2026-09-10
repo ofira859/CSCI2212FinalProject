@@ -1,7 +1,3 @@
-//
-// Created by Ofir
-//
-
 #ifndef CPLUSPLUSFINALPROJECT_TRIPS_H
 #define CPLUSPLUSFINALPROJECT_TRIPS_H
 

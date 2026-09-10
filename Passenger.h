@@ -1,4 +1,3 @@
-// Passenger.h
 // holds all the info about the person booking the ticket
 // instead of passing a bunch of loose bools everywhere, we just pass one Passenger object
 
