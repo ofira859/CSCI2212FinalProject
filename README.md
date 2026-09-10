@@ -1,1 +1,2 @@
-# FinalProjectCplusplus
+# Bus Ticketing System.
+Allows the user to...
